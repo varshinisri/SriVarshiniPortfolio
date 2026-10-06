@@ -2596,3 +2596,55 @@ footer {
     }
 
 }
+
+/* =========================================================
+   TECHNOLOGY FONT SIZE IMPROVEMENT
+   ========================================================= */
+
+/* Professional Journey - Java 17, Spring Boot, AWS SQS, Redis */
+.experience-highlights strong {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.experience-highlights span {
+    font-size: 9px;
+}
+
+
+/* Professional Journey - REST APIs, SAP, Redis, AWS, JUnit, Agile */
+.experience-card .tags span {
+    font-size: 9px;
+    font-weight: 700;
+    padding: 7px 10px;
+}
+
+
+/* Project technology names
+   Java, Spring Boot, Eureka, MySQL, MongoDB, AWS, etc. */
+.project-stack span {
+    font-size: 9px;
+    font-weight: 700;
+    padding: 7px 10px;
+}
+
+
+/* Project metric technology names
+   AI, REST, Java, AWS, EKS, C, IoT, GPRS, etc. */
+.project-metrics strong {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.project-metrics span {
+    font-size: 8px;
+}
+
+
+/* Skills section technology names
+   Java, Spring Boot, Kafka, Redis, Kubernetes, etc. */
+.skill-list span {
+    font-size: 10px;
+    font-weight: 600;
+    padding: 8px 11px;
+}
